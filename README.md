@@ -2,6 +2,9 @@
 
 A basic shell with commands: cd, pwd, exit, redirection (">"), pipe (and multi-pipe), loop, multiple commands (";")
 
+Usage of Program:
+smash
+
 ### Usage of loop: 
 
 "loop 3 pwd" will execute pwd 3 times.
