@@ -1,6 +1,6 @@
 # Basic-shell
 
-A basic shell with commands: cd, pwd, exit, redirection (">"), pipe (and multi-pipe), loop, multiple commands (";")
+A basic shell with commands: cd, pwd, exit, redirection (">"), pipe ("|"), loop, multiple commands (";")
 
 Usage of Program:
 smash
